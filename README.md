@@ -1,5 +1,3 @@
-# Venfitgym-API
-Aplicación whatsap api venfitgym
 // Importar Express.js const express = require ( 'express' );
 
 
